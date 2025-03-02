@@ -14,6 +14,7 @@ Este projeto me proporcionou uma experiência significativa no trabalho com **De
 
 ## Resultado
 No meu projeto, obtive uma taxa de acerto de **62%** na identificação correta das imagens de gatos e cães. 
+![Cat and Dog Classifier](Cat_Dog.png)
 
 ## Referências
 
