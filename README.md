@@ -11,3 +11,7 @@ O modelo foi treinado para classificar imagens de gatos e cães, utilizando um c
 Essas técnicas ajudaram a aumentar a diversidade das imagens e a melhorar a generalização do modelo. As **Redes Neurais Convolucionais (CNN)** foram utilizadas para a classificação das imagens, uma arquitetura muito eficaz para esse tipo de tarefa.
 
 Este projeto me proporcionou uma experiência significativa no trabalho com **Deep Learning** e imagens, aumentando minha confiança em projetos baseados em visão computacional e me motivando a seguir explorando esse campo.
+
+## Referências
+[freeCodeCamp](https://github.com/freeCodeCamp)
+[Akshar Goyal](https://github.com/AksharGoyal)
