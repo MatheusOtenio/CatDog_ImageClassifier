@@ -12,6 +12,9 @@ Essas técnicas ajudaram a aumentar a diversidade das imagens e a melhorar a gen
 
 Este projeto me proporcionou uma experiência significativa no trabalho com **Deep Learning** e imagens, aumentando minha confiança em projetos baseados em visão computacional e me motivando a seguir explorando esse campo.
 
+## Resultado
+No meu projeto, obtive uma taxa de acerto de **62%** na identificação correta das imagens de gatos e cães. 
+
 ## Referências
 
 - [freeCodeCamp](https://github.com/freeCodeCamp)  
